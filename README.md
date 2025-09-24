@@ -102,5 +102,5 @@ A React-based web application for managing user details with full CRUD operation
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/mrinmoy96/user-management-app.git](https://github.com/mrinmoy96/user-management-app.git)
+git clone https://github.com/mrinmoy96/user-management-app.git
 cd user-management-app
